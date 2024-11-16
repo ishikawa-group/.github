@@ -3,9 +3,9 @@
 
 ### Lectures
 * Followings are repositories for lectures
-  + vasp_how_to
-  + python_introduction
+  + [vasp_how_to](https://github.com/ishikawa-group/vasp_how_to)
+  + [python_introduction](https://github.com/ishikawa-group/python_introduction)
 
 ### Research works
 * Before going into project, please see following repository to learn the code convention
-  + python_development
+  + [python_development](https://github.com/ishikawa-group/python_development)
