@@ -3,7 +3,7 @@
 
 ### Lectures
 * Followings are repositories for lectures
-  + [vasp_how_to](https://github.com/ishikawa-group/vasp_how_to)
+  + [vasp-tutorial](https://github.com/ishikawa-group/vasp_how_to)
   + [python_introduction](https://github.com/ishikawa-group/python_introduction)
 
 ### Research works
